@@ -1,0 +1,60 @@
+@import 'https://fonts.googleapis.com/css2?family=M+PLUS+1&display=swap';
+
+body {
+    color: #fff;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    font-family: 'M PLUS 1', sans-serif;
+}
+
+.screen-header {
+    background-color: #242333;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'M PLUS 1', sans-serif;
+    color: #fff;
+    text-align: center;
+
+
+}
+
+.main-screen {
+    background-color: #242333;
+    height: 100%;
+    padding-top: 100px;
+
+}
+
+.button {
+    background-color: #01B0D3;
+    color: #fff;
+    width: 300px;
+    height: 75px;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+
+}
+
+#Audio__Detection {
+    font-size: 20px;
+
+}
+
+#Audio__Type {
+    font-size: 20px;
+    
+}
+
+.images {
+    width: 300px;
+
+}
+
+.screen-footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #242333;
+    width: 100%;
+}
